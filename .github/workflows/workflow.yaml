@@ -55,4 +55,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: github-pages
-          folder: build
+          folder: packages/play/storybook-static
