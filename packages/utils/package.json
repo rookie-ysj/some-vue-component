@@ -1,5 +1,5 @@
 {
-  "name": "some-vue-element",
+  "name": "@some-vue-component/utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@some-vue-component/components": "workspace: *"
-  }
+  "license": "ISC"
 }
