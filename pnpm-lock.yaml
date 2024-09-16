@@ -48,6 +48,9 @@ importers:
       '@some-vue-component/components':
         specifier: 'workspace: *'
         version: link:../components
+      '@some-vue-component/utils':
+        specifier: 'workspace: *'
+        version: link:../utils
 
   packages/hooks: {}
 
