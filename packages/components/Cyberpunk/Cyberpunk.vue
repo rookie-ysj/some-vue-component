@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { CyberpunkProps } from "./types";
-import { computed, watch } from 'vue';
+import { computed } from 'vue';
 import { handleNumberOrString } from '@some-vue-component/utils'
 
 const props = withDefaults(defineProps<CyberpunkProps>(), {

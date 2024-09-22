@@ -1,5 +1,6 @@
-import { Cyberpunk } from '@some-vue-component/components'
 import { Meta, StoryObj } from '@storybook/vue3';
+import { Cyberpunk } from 'some-vue-element'
+import 'some-vue-element/dist/style.css'
 
 type Story = StoryObj<typeof Cyberpunk>
 

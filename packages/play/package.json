@@ -24,6 +24,6 @@
     "storybook": "^8.2.9"
   },
   "dependencies": {
-    "@some-vue-component/components": "workspace: *"
+    "some-vue-element": "workspace: *"
   }
 }
