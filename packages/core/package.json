@@ -28,7 +28,8 @@
     "build-only": "run-p build-es build-umd",
     "build-es": "vite build --config vite.config.es.ts",
     "build-umd": "vite build --config vite.config.umd.ts",
-    "move-style": "move-file ./dist/es/style.css ./dist/style.css"
+    "move-style": "move-file ./dist/es/style.css ./dist/style.css",
+    "release": "release-it"
   },
   "keywords": [],
   "author": "",
